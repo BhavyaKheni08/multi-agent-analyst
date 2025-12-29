@@ -401,7 +401,7 @@ For questions or support, please open an issue on GitHub.
 
 <div align="center">
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Bhavya Kheni
 
 ⭐ Star this repo if you find it helpful!
 
