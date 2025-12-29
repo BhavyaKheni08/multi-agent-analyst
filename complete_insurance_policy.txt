@@ -1,0 +1,548 @@
+COMPREHENSIVE MOTOR INSURANCE POLICY
+
+Policy Number: MIPOL/2024/001234
+Issued by: UNIVERSAL INSURANCE COMPANY LIMITED
+Date of Issue: January 15, 2024
+
+===============================================================================
+1. PREAMBLE AND POLICY INTRODUCTION
+===============================================================================
+
+This Policy evidences a contract of insurance between UNIVERSAL INSURANCE 
+COMPANY LIMITED, a company incorporated under the Companies Act and authorized 
+to transact general insurance business in India (hereinafter called "the 
+Company" or "We" or "Us" or "Our") and the person(s) named in the Schedule 
+(hereinafter called "the Insured" or "You" or "Your").
+
+WHEREAS the Insured has submitted to the Company a Proposal Form and 
+Declaration dated January 10, 2024 together with such other statements, 
+reports or documents as required by the Company (all of which are deemed to 
+be incorporated herein and form the basis of this contract), and has paid or 
+agreed to pay the premium specified in the Schedule;
+
+NOW THEREFORE in consideration of the premium paid or to be paid, the Company 
+agrees to insure the Insured in accordance with the terms, conditions, 
+exclusions and limitations contained herein or endorsed hereon.
+
+This Policy, the Schedule attached hereto, the Proposal Form and Declaration, 
+the Certificate of Insurance, and any endorsements issued shall constitute 
+the complete contract of insurance.
+
+===============================================================================
+2. DECLARATIONS PAGE
+===============================================================================
+
+Policy Number: MIPOL/2024/001234
+Period of Insurance: From January 15, 2024 at 12:00 Noon to January 14, 2025 
+                    at 11:59 PM (both days inclusive)
+
+NAMED INSURED:
+Name: Mr. Rajesh Kumar Sharma
+Address: House No. 45, Sector 12, Noida, Uttar Pradesh - 201301
+Contact: +91-9876543210 / rajesh.sharma@email.com
+Date of Birth: March 15, 1985
+Occupation: Software Engineer
+
+VEHICLE DETAILS:
+Make & Model: Maruti Suzuki Swift VXI
+Registration Number: DL-08-CX-1234
+Engine Number: K12M-3456789
+Chassis Number: MA3ERLF1S00123456
+Year of Manufacture: 2022
+Cubic Capacity: 1197 CC
+Fuel Type: Petrol
+Use Class: Private Car
+Insured's Declared Value (IDV): Rs. 6,50,000
+Seating Capacity: 5 persons
+
+COVERAGE PROVIDED:
+✓ Own Damage Coverage - Sum Insured: Rs. 6,50,000
+✓ Third Party Liability - As per Motor Vehicles Act, 1988
+✓ Personal Accident Cover - Rs. 15,00,000
+✓ Zero Depreciation Cover (Optional) - Opted
+✓ Engine Protection Cover (Optional) - Opted
+○ Return to Invoice Cover (Optional) - Not Opted
+○ Roadside Assistance (Optional) - Not Opted
+
+PREMIUM DETAILS:
+Own Damage Premium: Rs. 8,500
+Third Party Premium: Rs. 2,072
+Personal Accident Premium: Rs. 399
+Zero Depreciation Cover Premium: Rs. 1,275
+Engine Protection Cover Premium: Rs. 850
+GST @ 18%: Rs. 2,377
+Total Premium: Rs. 15,473
+
+DEDUCTIBLE/EXCESS:
+Compulsory Deductible: Rs. 2,500 per claim (Own Damage)
+Voluntary Deductible: Nil
+
+===============================================================================
+3. DEFINITIONS
+===============================================================================
+
+"Accident" means a sudden, unforeseen and involuntary event caused by 
+external, visible and violent means.
+
+"Burglary" means an act involving the unauthorised and forcible entry into 
+the vehicle by breaking and entering with felonious intent.
+
+"Certificate of Insurance" means the certificate required to be issued under 
+Section 147 of the Motor Vehicles Act, 1988, showing that the vehicle is 
+covered by a contract of insurance as required by Chapter XI of the said Act.
+
+"Depreciation" means the decrease in value of parts/accessories due to usage, 
+wear and tear, and passage of time, as per the schedule specified in this 
+policy.
+
+"Electric Vehicle" means a motor vehicle that is propelled solely by 
+electrical power derived only from an electrical rechargeable battery which 
+is charged externally.
+
+"Flood" means the overflowing of water from its natural or artificial 
+confines such as rivers, streams, drains, reservoirs, tanks, canals, lakes, 
+dams.
+
+"Garage" means a structurally covered parking place which is used normally 
+for the parking of the motor vehicle when not in use.
+
+"IDV (Insured's Declared Value)" means the maximum sum insured for the 
+vehicle as agreed between the insurer and the insured at the time of policy 
+inception/renewal, representing the approximate current market value.
+
+"Market Value" means the cost of a similar vehicle of same make, model, type, 
+year of manufacture in the same locality or the listed price of such vehicle 
+as published by the manufacturers less depreciation.
+
+"Motor Vehicle/Vehicle" means the vehicle specified in the Schedule including 
+its standard accessories as fitted by the manufacturers.
+
+"Network Garage" means the garage which has been empanelled by the Company 
+for providing cashless claim settlement facility.
+
+"Own Damage" means loss or damage to the insured vehicle caused by perils 
+covered under Section I of this policy.
+
+"Personal Effects" means goods normally worn, used or carried by individuals 
+such as clothing, cameras, sports equipment etc., but excluding money, 
+securities, jewellery, and business goods.
+
+"Theft" means the act of stealing as defined under the Indian Penal Code.
+
+"Third Party" means any person other than the insured or any person who is 
+driving the insured vehicle with the permission of the insured.
+
+"Total Loss" means:
+- Actual Total Loss: The vehicle is completely destroyed or damaged beyond 
+  repair
+- Constructive Total Loss: Cost of repair exceeds 75% of the IDV
+
+===============================================================================
+4. INSURING AGREEMENTS
+===============================================================================
+
+SECTION I - OWN DAMAGE COVERAGE
+
+Subject to the terms, conditions, exclusions and limitations of this policy, 
+the Company will indemnify the Insured against loss or damage to the vehicle 
+insured caused by:
+
+a) Fire, explosion, self-ignition or lightning
+b) Burglary, house-breaking, theft or larceny
+c) Riot and strike (subject to special conditions as defined in Motor Tariff)
+d) Earthquake (fire and shock damage)
+e) Flood, typhoon, hurricane, storm, tempest, inundation, cyclone, hailstorm, 
+   frost
+f) Accidental external means
+g) Malicious act
+h) Terrorist activity (subject to special conditions as defined in Motor 
+   Tariff)
+i) Transit by road, rail, inland waterway, lift, elevator or air
+j) Landslide/rockslide
+
+The Company will at its option:
+- Repair the vehicle at an authorized garage, or
+- Replace what is lost or damaged, or
+- Pay in cash the amount of loss or damage
+
+Maximum Liability: The Company's liability shall not exceed the IDV specified 
+in the Schedule (Rs. 6,50,000).
+
+SECTION II - THIRD PARTY LIABILITY
+
+The Company will indemnify the Insured against all sums which the Insured 
+shall become legally liable to pay in respect of:
+
+a) Death of or bodily injury to any person (except death or bodily injury to 
+   any employee of the Insured arising out of and in the course of employment)
+
+b) Damage to property belonging to any third party
+
+Coverage includes:
+- Compensation payable to third parties
+- Legal costs incurred in defending claims (with Company's consent)
+- Emergency treatment costs as required under Motor Vehicles Act
+
+Maximum Liability:
+- For death/injury to persons: Unlimited as per Motor Vehicles Act
+- For property damage: Rs. 7,50,000
+
+SECTION III - PERSONAL ACCIDENT COVER FOR OWNER-DRIVER
+
+The Company will pay compensation as specified in the Schedule to the Insured 
+or his/her legal representatives in the event of:
+
+a) Death: 100% of Sum Insured (Rs. 15,00,000)
+b) Permanent Total Disablement: 100% of Sum Insured (Rs. 15,00,000)
+c) Permanent Partial Disablement: Percentage as per scale in policy
+
+caused by bodily injury directly resulting from an accident to the vehicle.
+
+SECTION IV - ADDITIONAL BENEFITS
+
+A. Emergency Transportation and Hotel Expenses
+   Reimbursement up to Rs. 2,500 for accommodation if vehicle becomes 
+   non-driveable more than 50 km from residence
+
+B. Emergency Medical Expenses
+   Coverage as required under Section 161 of Motor Vehicles Act
+
+C. Loss of Personal Effects
+   Coverage up to Rs. 5,000 for personal effects damaged in an accident
+
+===============================================================================
+5. EXCLUSIONS
+===============================================================================
+
+GENERAL EXCLUSIONS
+
+The Company shall not be liable for:
+
+1. CONSEQUENTIAL LOSS: Any consequential loss howsoever caused
+
+2. WEAR AND TEAR: Normal wear and tear, gradual deterioration, mechanical or 
+   electrical breakdown, failures or breakages
+
+3. DEPRECIATION: Any depreciation in the value of the vehicle
+
+4. DRIVING WITHOUT VALID LICENSE: Loss or damage caused while the vehicle is 
+   being driven by a person who does not hold an effective driving license 
+   for the type of vehicle being driven
+
+5. INFLUENCE OF INTOXICATING SUBSTANCE: Loss or damage caused while the 
+   vehicle is being driven under the influence of intoxicating liquor or drugs
+
+6. USE FOR RACING: Loss or damage caused while the vehicle is being used for 
+   racing, pace-making, reliability trials, speed testing or any contest
+
+7. WAR RISKS: War, invasion, act of foreign enemy, hostilities, civil war, 
+   rebellion, revolution, insurrection, mutiny or usurped power
+
+8. NUCLEAR RISKS: Nuclear reaction, nuclear radiation or radioactive 
+   contamination
+
+9. UNLAWFUL USE: Loss or damage caused while the vehicle is being used 
+   otherwise than in accordance with the limitations as to use specified
+
+10. GEOGRAPHIC LIMITS: Loss or damage occurring outside the geographical area 
+    of India
+
+11. OVERLOADING: Damage caused due to overloading beyond the manufacturer's 
+    specifications
+
+12. CONTRACTUAL LIABILITY: Any liability under any contract or agreement 
+    unless such liability would have attached in the absence of such contract
+
+13. USE OF VEHICLE AS TOOL: Damage caused while the vehicle is used as a tool 
+    of trade
+
+14. DISHONEST ACTS: Loss or damage caused by theft or conversion by any person 
+    in lawful possession of the vehicle
+
+15. ELECTRICAL/ELECTRONIC EQUIPMENT: Damage to electrical/electronic fittings 
+    due to short circuit unless consequent fire damage occurs
+
+SPECIFIC EXCLUSIONS FOR SECTION I (OWN DAMAGE)
+
+1. Damage to tyres and tubes unless the vehicle is damaged at the same time
+2. Loss of personal belongings except as specifically covered
+3. Damage while in custody of motor dealer for sale
+4. Damage due to overturning unless caused by accidental external means
+
+SPECIFIC EXCLUSIONS FOR SECTION II (THIRD PARTY LIABILITY)
+
+1. Death/injury to driver of the insured vehicle
+2. Damage to insured vehicle or property in custody of insured
+3. Liability assumed under contract unless would exist without contract
+4. Punitive or exemplary damages
+
+===============================================================================
+6. GENERAL CONDITIONS
+===============================================================================
+
+1. CONDITION PRECEDENT TO LIABILITY
+The due observance and fulfillment of the terms, provisions, conditions and 
+exclusions of this policy by the Insured shall be conditions precedent to 
+any liability of the Company.
+
+2. DUTY TO TAKE REASONABLE PRECAUTIONS
+The Insured shall take all reasonable steps to safeguard the vehicle from 
+loss or damage and maintain it in efficient condition. The vehicle must 
+possess a valid registration certificate, permit, fitness certificate and 
+pollution under control certificate as required by law.
+
+3. CLAIMS PROCEDURE
+
+A. Immediate Requirements:
+- Report to police within 24 hours if involving third party or theft
+- Inform the Company within 7 days of the incident
+- File FIR in case of theft, riot, strike, malicious damage
+
+B. Documentation Required:
+- Duly completed claim form
+- Original policy documents
+- Registration certificate copy
+- Driving license copy
+- Police FIR/Non-FIR/Panchnama (if applicable)
+- Repair estimates/bills
+- Survey reports if appointed
+
+C. Claims Settlement:
+- Cashless facility available at network garages
+- Survey will be conducted for claims above Rs. 20,000
+- Settlement within 30 days of receipt of all documents
+
+4. RIGHT OF RECOVERY (SUBROGATION)
+In the event of any payment being made under this policy, the Company shall 
+be subrogated to all rights of recovery of the Insured and may pursue such 
+rights in the name of the Insured.
+
+5. CANCELLATION
+
+By Insured:
+- 15 days written notice required
+- Premium refund as per short period scale
+- No refund if claim has been made
+
+By Company:
+- 15 days written notice required
+- Full refund of proportionate premium
+- May cancel immediately for fraud or material misrepresentation
+
+6. RENEWAL
+This policy shall terminate on the expiry date unless renewed. The Company 
+reserves the right to refuse renewal or modify terms at renewal.
+
+7. ARBITRATION
+All disputes arising under this policy shall be referred to arbitration in 
+accordance with the Arbitration and Conciliation Act, 1996. The arbitration 
+shall be held at the place where the policy was issued.
+
+8. TERRITORIAL LIMITS
+This policy covers the vehicle only within the geographical limits of India.
+
+9. MULTIPLE INSURANCE
+If there is any other insurance covering the same risk, the Company will not 
+be liable for more than its rateable proportion of the loss.
+
+10. FRAUD
+If any claim is fraudulent or if fraudulent means are used to obtain benefit 
+under this policy, all benefits shall be forfeited and the policy shall 
+become void.
+
+11. JURISDICTION
+All legal proceedings shall be subject to the jurisdiction of Indian courts 
+only.
+
+12. SURVEY AND ASSESSMENT
+The Company has the right to have any loss surveyed and assessed. No 
+settlement shall be made without such survey if the loss exceeds Rs. 20,000.
+
+===============================================================================
+7. ENDORSEMENTS AND OPTIONAL COVERS
+===============================================================================
+
+OPTED ADD-ON COVERS
+
+A. Zero Depreciation Cover
+- No depreciation deducted on parts in case of claims
+- Available for vehicles up to 5 years old
+- Additional premium: Rs. 1,275
+- Valid for: Own damage claims only
+
+B. Engine Protection Cover
+- Covers damage to engine due to water ingression
+- Additional premium: Rs. 850
+- Deductible: Rs. 5,000 per claim
+
+AVAILABLE BUT NOT OPTED COVERS
+
+C. Return to Invoice Cover
+- Covers gap between IDV and invoice value in case of total loss
+- Available for vehicles up to 3 years old
+- Additional premium: Rs. 975
+
+D. Roadside Assistance
+- 24x7 emergency services
+- Towing, battery jumpstart, flat tyre assistance
+- Additional premium: Rs. 299
+
+E. Daily Allowance
+- Rs. 500 per day for repair period exceeding 5 days
+- Maximum 30 days
+- Additional premium: Rs. 450
+
+SPECIAL CONDITIONS FOR ENDORSEMENTS
+
+1. All endorsements form part of this policy and are subject to all terms and 
+   conditions
+2. Additional premium must be paid for optional covers
+3. Some covers may have separate deductibles and exclusions
+
+===============================================================================
+8. DEPRECIATION SCHEDULE
+===============================================================================
+
+For fixing IDV:
+
+Age of Vehicle                           | Depreciation Rate
+Not exceeding 6 months                   | 5%
+Exceeding 6 months but not exceeding 1   | 15%
+year                                     |
+Exceeding 1 year but not exceeding 2     | 20%
+years                                    |
+Exceeding 2 years but not exceeding 3    | 30%
+years                                    |
+Exceeding 3 years but not exceeding 4    | 40%
+years                                    |
+Exceeding 4 years but not exceeding 5    | 50%
+years                                    |
+
+For claim settlements (Zero Depreciation opted, so not applicable):
+
+Parts/Components                         | Depreciation Rate
+Rubber/Nylon/Plastic parts              | 50%
+Fibre glass components                  | 30%
+Battery                                 | Pro-rata basis
+Airbags                                 | Nil
+
+===============================================================================
+9. PERMANENT PARTIAL DISABLEMENT SCALE
+===============================================================================
+
+Loss of Limbs/Organs                    | Percentage of Sum Insured
+Loss of two limbs                       | 100%
+Loss of one limb                        | 50%
+Loss of sight of both eyes              | 100%
+Loss of sight of one eye                | 50%
+Loss of hearing of both ears            | 100%
+Loss of hearing of one ear              | 30%
+Loss of four fingers and thumb of one   | 50%
+hand                                    |
+Loss of four fingers                    | 40%
+Loss of thumb                           | 25%
+Loss of index finger                    | 10%
+Loss of middle finger                   | 8%
+Loss of ring finger                     | 5%
+Loss of little finger                   | 5%
+
+===============================================================================
+10. IMPORTANT NOTES
+===============================================================================
+
+1. Policy Territory: This policy is valid only within India
+2. Currency: All amounts are in Indian Rupees
+3. Governing Law: This policy is governed by Indian Insurance Laws
+4. Language: In case of dispute over translation, English version shall 
+   prevail
+5. Free Look Period: 15 days from receipt of policy to review and return if 
+   not satisfied
+6. Contact Information: Customer service available 24x7 at 1800-123-4567
+
+===============================================================================
+11. GRIEVANCE REDRESSAL
+===============================================================================
+
+Level 1 - Customer Service:
+Phone: 1800-123-4567
+Email: customercare@universalinsurance.com
+Website: www.universalinsurance.com
+
+Level 2 - Grievance Officer:
+Mr. Amit Singh
+Email: grievance@universalinsurance.com
+Phone: 011-12345678
+
+Level 3 - Insurance Ombudsman:
+Contact details as per IRDAI guidelines
+Website: www.ecoi.co.in
+
+Level 4 - Consumer Forum:
+As per Consumer Protection Act, 2019
+
+===============================================================================
+12. REGULATORY INFORMATION
+===============================================================================
+
+IRDA Registration Number: 123456789
+UIN (Unique Identification Number): UNIVMOTORPVT123456V01201920
+IRDAI Reg. No.: 123 dated June 15, 2001
+CIN: U66010DL2001PLC123456
+
+This policy is subject to:
+- Motor Vehicles Act, 1988
+- IRDAI Motor Insurance Regulations
+- Insurance Act, 1938
+- Consumer Protection Act, 2019
+
+===============================================================================
+13. CERTIFICATE OF INSURANCE
+===============================================================================
+
+Certificate No: CERT/2024/001234
+
+This is to certify that the policy of insurance described below has been 
+issued to the insured and that such policy is valid and effective as per the 
+terms and conditions mentioned in the policy.
+
+Name & Address of Insured: Mr. Rajesh Kumar Sharma
+                          House No. 45, Sector 12
+                          Noida, Uttar Pradesh - 201301
+
+Registration Mark: DL-08-CX-1234
+Engine Number: K12M-3456789
+Chassis Number: MA3ERLF1S00123456
+
+Type of Vehicle: Private Car - Maruti Suzuki Swift VXI
+Effective Date: January 15, 2024
+Date of Expiry: January 14, 2025
+
+Authorized Signatory: [Signature]
+Name: Mr. Pradeep Kumar
+Designation: Underwriter
+Date: January 15, 2024
+Place: New Delhi
+
+===============================================================================
+
+This policy document should be read in conjunction with the Motor Vehicles 
+Act, 1988, Motor Tariff as approved by IRDAI, and other applicable laws.
+
+Issued under the authority of: UNIVERSAL INSURANCE COMPANY LIMITED
+Authorized Signatory: [Signature]
+Name: Ms. Sunita Verma
+Designation: General Manager - Underwriting
+Date: January 15, 2024
+Place: New Delhi
+
+===============================================================================
+END OF POLICY DOCUMENT
+===============================================================================
+
+This is a complete and legally compliant motor insurance policy document 
+containing all necessary sections, terms, conditions, and regulatory 
+requirements as per Indian insurance regulations.
+
+Policy Issued: January 15, 2024
+Document Version: 1.0
+Total Pages: 15
